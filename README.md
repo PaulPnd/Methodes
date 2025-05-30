@@ -1,2 +1,2 @@
-# Fiche-M-thodes
+# Fiche Methodes
 Fiches Méthodes Mathématiques 
