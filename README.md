@@ -6,7 +6,7 @@ Une fois que toutes les méthodes auront leurs cheats sheets de faite, elles ser
 
 Les méthodes qui seront ajoutés :
 - Régressions liénaires & logistiques
-- ACP / ACM / AFC
+- ACP / ACM / AFM
 - Analyse composante exploratoire & confirmatoire
 - Séries temporelles
 - Forêts Aléatoires
